@@ -1,0 +1,5 @@
+brasilprev\steps\cadastrarPessoa\CadastrarPessoaSteps.class
+brasilprev\runners\ConsultarPessoaTests.class
+brasilprev\steps\consultarPessoa\ConsultarPessoaSteps.class
+brasilprev\runners\CadastrarPessoaTests.class
+brasilprev\utils\GeradorDeDados.class
