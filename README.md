@@ -1,6 +1,3 @@
-# Desafio QA - BRASILPREV // Gabriela Gomes
-https://www.linkedin.com/in/gabriela-gomess/
-
 ## Funcionalidades
 
 - cadastrarPessoa: baseado em respostas de solicitações enviadas ao endpoint localhost:8080/pessoas.
